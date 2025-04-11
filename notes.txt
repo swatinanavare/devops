@@ -1,1 +1,2 @@
 echo "Initial content for notes"
+Added more information to the file.
