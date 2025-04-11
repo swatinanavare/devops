@@ -1,2 +1,3 @@
 echo "Initial content for notes"
 Added more information to the file.
+Hotfix: Important patch added to notes.txt
